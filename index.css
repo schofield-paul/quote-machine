@@ -1,0 +1,26 @@
+body {
+  background-color: #3498db;
+}
+
+.wrapper {
+  height: 100vh;
+}
+
+.box {
+  background-color: #fff;
+
+}
+
+cite {
+  text-align: right;
+}
+
+.fa-quote-left {
+  opacity: 0.9;
+  top: 10px;
+  left: 10px;
+} 
+
+h3 {
+  opacity: 0.9;
+}
